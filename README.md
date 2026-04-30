@@ -177,7 +177,7 @@ The t-SNE visualisation confirmed clear visual separation between all 7 clusters
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/credit-card-segmentation.git
+git clone https://github.com/mohammedrefai20/credit-card-segmentation.git
 cd credit-card-segmentation
 
 # Create a virtual environment (recommended)
