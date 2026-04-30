@@ -1,0 +1,12 @@
+# Core data science
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+
+# Jupyter
+notebook>=7.0
+ipykernel>=6.0
